@@ -1,0 +1,4 @@
+backups/*.tar.gz
+mirror/
+logs/*.log
+restore_test/
